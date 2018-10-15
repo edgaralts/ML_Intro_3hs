@@ -1,4 +1,5 @@
-# ML_Intro_3hs
+# Introducción al Machine Learning
+Curso corto de 3hs de *Introducción al Machine Learning*
 #### Instalación de Anaconda:
 - [linux](https://conda.io/docs/user-guide/install/linux.html)
 - [windows](https://conda.io/docs/user-guide/install/windows.html)
